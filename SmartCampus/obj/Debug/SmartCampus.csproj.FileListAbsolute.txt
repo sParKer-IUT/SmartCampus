@@ -1,0 +1,509 @@
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+E:\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+E:\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\MySql.Data.dll
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\bin\Debug\WebCam_Capture.dll
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+E:\InfinitechBD\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\anan\New folder\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\Project Smart Cmapus FINAL\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapus FINAL\UPDATED\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Source Code\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\MySql.Data.dll
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+E:\InfinitechBD\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+D:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpAttendanceType.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+G:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpAttendanceType.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+F:\CSE\Programming\C# Projects\InfinitechBD\Project Smart Cmapusv2.0 LATEST\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\MySql.Data.dll
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpAttendanceType.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+E:\InfinitechBD\New Latest\Latest\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+D:\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpAttendanceType.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+D:\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe.config
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.exe
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\SmartCampus.pdb
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\DGV Printer.dll
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\MySql.Data.dll
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.dll
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.License.dll
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Pdf.dll
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.Doc.xml
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\bin\Debug\Spire.License.xml
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Accounts.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Admission.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendance.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.DailyAttendanceAll.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpAttendanceType.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmpDailyAttendance.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoEdit.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeInfoShow.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeOptions.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EmployeeRecruit.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarks.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.EnterMarksMain.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Expenses.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Main.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.MainMenu.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PasswordForm.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.PaymentReceipt.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.Properties.Resources.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultMain.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ResultOption.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeClassResult.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SeeResult.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.SetPaymentRate.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.ShowAttendance.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StdPaymentStatus.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentDatabase.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInfoEdit.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentInformation.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.StudentPayment.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPayment.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.TeacherPaymentReceipt.resources
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csproj.GenerateResource.Cache
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.exe
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.pdb
+E:\InfinitechBD\Final\SourceCode\SmartCampus\SmartCampus\obj\Debug\SmartCampus.csprojResolveAssemblyReference.cache

@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EEDFCDD0-1AA5-4284-8182-17B20F04A81D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SmartCampus</RootNamespace>
+    <AssemblyName>SmartCampus</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>smartcampusIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DGV Printer">
+      <HintPath>..\..\..\..\dgvprinter\DGV Printer.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.2.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.2.4.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\sParKer\Downloads\Compressed\MySQLFiles\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Doc">
+      <HintPath>..\packages\FreeSpire.Doc.5.5\lib\net40\Spire.Doc.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License">
+      <HintPath>..\packages\FreeSpire.Doc.5.5\lib\net40\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>..\packages\FreeSpire.Doc.5.5\lib\net40\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Touchless.Vision, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Touchless.Vision.dll</HintPath>
+    </Reference>
+    <Reference Include="WebCamLib, Version=0.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WebCamLib.dll</HintPath>
+    </Reference>
+    <Reference Include="WebCam_Capture">
+      <HintPath>..\..\..\Webcam C#\WebCam_Capture.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accounts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Accounts.Designer.cs">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admission.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admission.Designer.cs">
+      <DependentUpon>Admission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DailyAttendance.Designer.cs">
+      <DependentUpon>DailyAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DailyAttendanceAll.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DailyAttendanceAll.Designer.cs">
+      <DependentUpon>DailyAttendanceAll.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpAttendanceType.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmpAttendanceType.Designer.cs">
+      <DependentUpon>EmpAttendanceType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmpDailyAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmpDailyAttendance.Designer.cs">
+      <DependentUpon>EmpDailyAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeInfoEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeInfoEdit.Designer.cs">
+      <DependentUpon>EmployeeInfoEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeInfoShow.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeInfoShow.Designer.cs">
+      <DependentUpon>EmployeeInfoShow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeOptions.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeOptions.Designer.cs">
+      <DependentUpon>EmployeeOptions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeRecruit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeRecruit.Designer.cs">
+      <DependentUpon>EmployeeRecruit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterMarks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EnterMarks.Designer.cs">
+      <DependentUpon>EnterMarks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EnterMarksMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EnterMarksMain.Designer.cs">
+      <DependentUpon>EnterMarksMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Expenses.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Expenses.Designer.cs">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helper.cs" />
+    <Compile Include="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.cs">
+      <DependentUpon>Main.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PasswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PasswordForm.Designer.cs">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentReceipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PaymentReceipt.Designer.cs">
+      <DependentUpon>PaymentReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ResultMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ResultMain.Designer.cs">
+      <DependentUpon>ResultMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultOption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ResultOption.Designer.cs">
+      <DependentUpon>ResultOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeeClassResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SeeClassResult.Designer.cs">
+      <DependentUpon>SeeClassResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SeeResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SeeResult.Designer.cs">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SetPaymentRate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SetPaymentRate.Designer.cs">
+      <DependentUpon>SetPaymentRate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowAttendance.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShowAttendance.Designer.cs">
+      <DependentUpon>ShowAttendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Statics.cs" />
+    <Compile Include="StdPaymentStatus.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StdPaymentStatus.Designer.cs">
+      <DependentUpon>StdPaymentStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentDatabase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentDatabase.Designer.cs">
+      <DependentUpon>StudentDatabase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInfoEdit.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentInfoEdit.Designer.cs">
+      <DependentUpon>StudentInfoEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentInformation.Designer.cs">
+      <DependentUpon>StudentInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StudentPayment.Designer.cs">
+      <DependentUpon>StudentPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherPayment.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TeacherPayment.Designer.cs">
+      <DependentUpon>TeacherPayment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeacherPaymentReceipt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TeacherPaymentReceipt.Designer.cs">
+      <DependentUpon>TeacherPaymentReceipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebCam.cs" />
+    <EmbeddedResource Include="Accounts.resx">
+      <DependentUpon>Accounts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admission.resx">
+      <DependentUpon>Admission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyAttendance.resx">
+      <DependentUpon>DailyAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DailyAttendanceAll.resx">
+      <DependentUpon>DailyAttendanceAll.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpAttendanceType.resx">
+      <DependentUpon>EmpAttendanceType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmpDailyAttendance.resx">
+      <DependentUpon>EmpDailyAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeInfoEdit.resx">
+      <DependentUpon>EmployeeInfoEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeInfoShow.resx">
+      <DependentUpon>EmployeeInfoShow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeOptions.resx">
+      <DependentUpon>EmployeeOptions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeRecruit.resx">
+      <DependentUpon>EmployeeRecruit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterMarks.resx">
+      <DependentUpon>EnterMarks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EnterMarksMain.resx">
+      <DependentUpon>EnterMarksMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Expenses.resx">
+      <DependentUpon>Expenses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PasswordForm.resx">
+      <DependentUpon>PasswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentReceipt.resx">
+      <DependentUpon>PaymentReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ResultMain.resx">
+      <DependentUpon>ResultMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultOption.resx">
+      <DependentUpon>ResultOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeClassResult.resx">
+      <DependentUpon>SeeClassResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SeeResult.resx">
+      <DependentUpon>SeeResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetPaymentRate.resx">
+      <DependentUpon>SetPaymentRate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowAttendance.resx">
+      <DependentUpon>ShowAttendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StdPaymentStatus.resx">
+      <DependentUpon>StdPaymentStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentDatabase.resx">
+      <DependentUpon>StudentDatabase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInfoEdit.resx">
+      <DependentUpon>StudentInfoEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentInformation.resx">
+      <DependentUpon>StudentInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentPayment.resx">
+      <DependentUpon>StudentPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherPayment.resx">
+      <DependentUpon>TeacherPayment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeacherPaymentReceipt.resx">
+      <DependentUpon>TeacherPaymentReceipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\AddmissionForm.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_Teacher_attendanceReport.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="smartcampusIcon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
